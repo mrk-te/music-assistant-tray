@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Marc Teinturier <m@m-te.fr>
+
 """Local control socket, so keyboard shortcuts can drive the running daemon.
 
 Protocol: one line per request ("up", "down", "play", "pause", "toggle",

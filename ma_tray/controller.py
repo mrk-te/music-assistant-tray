@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Marc Teinturier <m@m-te.fr>
+
 """Glue between the client, the selected player and the front-ends (tray, CLI socket)."""
 
 from __future__ import annotations

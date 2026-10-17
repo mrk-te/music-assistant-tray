@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Marc Teinturier <m@m-te.fr>
+
 """Settings window (GTK 3)."""
 
 from __future__ import annotations

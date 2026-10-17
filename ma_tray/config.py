@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Marc Teinturier <m@m-te.fr>
+
 """Configuration: ~/.config/ma-tray/config.toml, edited through the settings window."""
 
 from __future__ import annotations

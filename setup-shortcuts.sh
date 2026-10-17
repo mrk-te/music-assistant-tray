@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Marc Teinturier <m@m-te.fr>
 # Add GNOME custom keyboard shortcuts that drive ma-tray.
 #   ./setup-shortcuts.sh           add (or update) the shortcuts below
 #   ./setup-shortcuts.sh --remove  remove them

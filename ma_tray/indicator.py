@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Marc Teinturier <m@m-te.fr>
+
 """Top-bar indicator (AppIndicator / Ayatana) for GNOME on Ubuntu.
 
 - Left click: menu

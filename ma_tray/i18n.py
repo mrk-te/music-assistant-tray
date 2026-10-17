@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Marc Teinturier <m@m-te.fr>
+
 """Tiny translation table: French when the desktop locale is French, English otherwise."""
 
 from __future__ import annotations

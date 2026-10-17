@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (C) 2026 Marc Teinturier <m@m-te.fr>
 # Install ma-tray for the current user (Ubuntu 24.04 / 26.04, GNOME).
 #   ./install.sh            install / update
 #   ./install.sh --uninstall
